@@ -1,1 +1,1 @@
-This is very simple application for calculate some of condition of inheritace after death 
+This is very simple application for calculate some of conditions of inheritace after death 
